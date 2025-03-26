@@ -60,12 +60,12 @@ figcaption p {
 }
 @media screen and (max-width: 375px) {
     .qrCodeBlock {
-      max-width: 330px; /* Smaller width for mobile */
+      max-width: 330px;
       padding: 10px;
     }
   
     figcaption h2 {
-      font-size: 1.2rem; /* Smaller font size */
+      font-size: 1.2rem;
       padding: 0 10px;
     }
   
